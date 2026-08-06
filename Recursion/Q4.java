@@ -7,10 +7,9 @@ public class Q4 {
             return;
         }
         System.out.println(a);
-        printFib(a+b,b,n-1);
+        printFib(b, a+b, n-1);
     }
 public static void main(String args[]){
     printFib(0, 1, 5);
 }
-
 }
