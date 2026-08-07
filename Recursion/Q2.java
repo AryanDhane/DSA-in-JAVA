@@ -10,6 +10,7 @@ public static void printSum(int n, int sum){
     sum += n;
     printSum(n-1, sum);
 
+    
 }
 public static void main(String args[]){
     printSum(5, 0);
