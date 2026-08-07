@@ -1,3 +1,5 @@
+// Print the sum of numbers from 1 to n using recursion
+
 package Recursion;
 
 public class Q2 {
