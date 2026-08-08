@@ -6,6 +6,7 @@ public static void printpower(int x, int n){
     if(n == 0){
         
     }
+
     
 }    
 }
