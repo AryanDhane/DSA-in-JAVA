@@ -18,8 +18,6 @@ public class Q3 {
 }
 
 
-
-
 // ouput
 
 // 120
