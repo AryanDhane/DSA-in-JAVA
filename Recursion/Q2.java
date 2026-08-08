@@ -6,7 +6,7 @@ public class Q2 {
 
 public static void printSum(int n, int sum){
     if(n == 0){
-        System.out.println(sum);
+       System.out.println(sum);
         return;
     }
     sum += n;
