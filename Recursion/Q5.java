@@ -7,6 +7,6 @@ public static void printpower(int x, int n){
         
     }
 
-    
+
 }    
 }
