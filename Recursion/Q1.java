@@ -17,6 +17,7 @@ public class Q1 {
 }
 
 
+
 // output:
 
 // 5
